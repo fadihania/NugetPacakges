@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33417.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NugetPacakges", "NugetPacakges\NugetPacakges.csproj", "{38BCAD90-2EE3-4ADE-99DA-3B8BFE747664}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38BCAD90-2EE3-4ADE-99DA-3B8BFE747664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38BCAD90-2EE3-4ADE-99DA-3B8BFE747664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38BCAD90-2EE3-4ADE-99DA-3B8BFE747664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38BCAD90-2EE3-4ADE-99DA-3B8BFE747664}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C504CD03-5EEA-4D44-ACA2-61FEBD432C32}
+	EndGlobalSection
+EndGlobal
